@@ -10,7 +10,7 @@ export default {
   props: ["highlights"],
   data () {
     return {
-      visibility: this.highlights.visibility,
+      visibility: this.highlights.visibility.toString(),
     }
   },
   methods: {
