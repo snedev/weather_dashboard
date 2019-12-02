@@ -1,6 +1,7 @@
 {
-  "name": "vue_weather_dashboard",
-  "description": "A Vue.js project",
+  "name": "weather-dashboard",
+  "homepage": "http://nedev.io/weather",
+  "description": "A Vue.js weather dashboard project",
   "version": "1.0.0",
   "author": "Stan Nedev <stan@nedev.io>",
   "license": "MIT",
