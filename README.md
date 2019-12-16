@@ -1,6 +1,6 @@
-# weather_dashboard
+# Weather Dashboard
 
-> A Vue.js project
+> Weather dashboard created with Vue.js using Dark Sky API and Google Maps API
 
 ## Build Setup
 
